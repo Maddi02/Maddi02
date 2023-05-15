@@ -1,8 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Martin Hummel
 
 ---
-
-a Computer Science Student and Intern at Testo SE
+a passionate computer science student and an avid fan of Apple . I have a deep fascination for exploring cutting-edge technologies and staying up to date with the latest advancements in the tech industry. Currently I am working as an intern at Testo SE
 
 <h3>Projects</h3>
 
@@ -11,8 +10,24 @@ a Computer Science Student and Intern at Testo SE
 <li>Primarily used C++ for the development
 <li>Seamless Integration of Objective-C, and Java with C++
 <li>Facilitated communication between C++ and the native platforms
+<li>
 
 ---
+  
+🧰 Toolbox
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift logo" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="50" height="50"/>
+  
+
+                                                                                                                     
+  
 <!--
 **Maddi02/Maddi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
