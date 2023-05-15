@@ -21,9 +21,11 @@ a passionate computer science student and an avid fan of Apple . I have a dee
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/>
   
 
                                                                                                                      
